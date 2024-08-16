@@ -22,7 +22,7 @@ This repo is all about practicing, learning, and having fun while solving intere
 
 ## 🌟 Let's Connect!
 - **GitHub**: [Nischal-Acharya](https://github.com/Nischal-Acharya)
-- **Codeforces**: [YourCodeforcesProfile](https://codeforces.com/profile/Lahcsin)
+- **Codeforces**: [Lahcsin](https://codeforces.com/profile/Lahcsin)
 
 ---
 
