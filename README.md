@@ -1,6 +1,6 @@
 # 🎯 Competitive Programming - Codeforces
 
-![Codeforces](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Codeforces_logo.svg/1200px-Codeforces_logo.svg.png)
+![Codeforces](https://sta.codeforces.com/s/29621/images/codeforces-logo-with-telegram.png)
 
 Welcome to my **Competitive Programming** repository! 🌟 This is where I keep all my Codeforces problem solutions written in **C++**. Whether it's tackling easy problems or wrestling with tough ones, this repo showcases my journey of growth and improvement in the world of competitive programming. 🚀
 
