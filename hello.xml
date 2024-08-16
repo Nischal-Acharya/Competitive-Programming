@@ -1,0 +1,7 @@
+<RelativeLayout>
+
+    <TextView>
+        android:text="Hello World"
+    </TextView>
+
+</RelativeLayout>
